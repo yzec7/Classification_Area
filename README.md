@@ -16,12 +16,12 @@ Classification Area 是一个用于处理和研究AI的专栏。该项目提供�
 你可以通过以下步骤安装和使用该项目：
 
 ```bash
-git clone https://github.com/yzec7/Classification-Area.git
+git clone https://github.com/yzec7/Classification_Area.git
 cd Classification-Area
 python setup.py install
 ```
 
-详细的使用说明和示例可以在我们的文档中找到：[项目文档链接](https://github.com/yzec7/Classification-Area/wiki)
+详细的使用说明和示例可以在我们的文档中找到：[项目文档链接](https://github.com/yzec7/Classification_Area/wiki)
 
 ## 贡献指南：
 
